@@ -1,0 +1,13 @@
+.product-content {
+    text-align: center;
+    padding-top: 5px;
+}
+
+.product-label{
+    text-decoration: solid;
+}
+.card-img-top{
+    text-align: center;
+    width: 150px;
+    height: 150px
+}
